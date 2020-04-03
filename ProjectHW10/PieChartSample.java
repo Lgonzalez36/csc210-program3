@@ -32,8 +32,8 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 
 /**
- * Main class for Program 2
- * Feb 28, 2020
+ * Main class for Program 3
+ * April 3, 2020
  * @author Luis Gonzalez
  */
 public class PieChartSample extends Application {
